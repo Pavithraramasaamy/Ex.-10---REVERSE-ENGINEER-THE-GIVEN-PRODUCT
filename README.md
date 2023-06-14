@@ -32,11 +32,13 @@
 
 ## Input:
 
-### Output:
+![RAADIO](https://github.com/Pavithraramasaamy/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118596964/8e800f18-d4f3-4c96-8869-8d50815400e7)
+## Output:
 
+![Screenshot (201)](https://github.com/Pavithraramasaamy/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118596964/b1fe9b25-e53e-42d8-a9f0-9799526f90d3)
 
-### Name:
-### Register Number:
+### Name:PAVITHRA R
+### Register Number:212222230106
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
